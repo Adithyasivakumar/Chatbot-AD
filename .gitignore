@@ -1,0 +1,45 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# IDE/Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Vector Store (can be regenerated)
+vector_store/
+
+# Screenshots (optional - remove this line if you want to include them)
+screenshots/
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
